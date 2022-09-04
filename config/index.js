@@ -4,10 +4,10 @@ export const config = {
    */
 
   // 公众号APP_ID
-  APP_ID: "",
+  APP_ID: "wx1eb3f35ff61048d4",
 
   // 公众号APP_SECRET
-  APP_SECRET: "",
+  APP_SECRET: "4662221aaadf07008d652e918fc1df7c",
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
@@ -26,16 +26,16 @@ export const config = {
    */
   USERS: [
     {
-      // 想要发送的人的名字
+      // obHE-5kHP9QPizyXFkzRK3ZeYUZc
       name: "老婆0",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ohxO123O6Vsk2Yv0Kuf-ywIZ3VRMpuXhk",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "Wue80GrtY1nAia4tam-FDxZF9WNx9pwcBc0LMpANnu8",
       // 所在省份
-      province: "广东",
+      province: "江苏",
       // 所在城市
-      city: "肇庆",
+      city: "宿迁",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://wangxinleo.cn"
     }, 
